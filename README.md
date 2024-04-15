@@ -24,7 +24,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>> Hey There!, I am
-                <b><a target="_blank" href="[https://rushikeshyadav.com](https://rushikeshya.github.io/rushiyadav.github.io/)">Rushikesh Yadav</a></b>
+                <b><a target="_blank" href="https://rushikeshya.github.io/rushiyadav.github.io/">Rushikesh Yadav</a></b>
         </samp>
 </h3>
 
