@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
-
+<h1>Hello Everyone</h1>
 My name is **Rushikesh Yadav**, a graduate student with a for **Data Science** and **Machine Learning**. My journey into these fascinating fields began during my engineering studies, where my natural curiosity led me to delve deeper into the realms of data analysis and predictive modeling.
 
 I have honed my expertise through various online courses and hands-on projects, culminating in certifications in Data Science and Machine Learning. Notably, I hold the prestigious **Google Advanced Data Analytics certificate**, a testament to my commitment to staying at the forefront of industry best practices.
