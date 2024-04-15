@@ -1,4 +1,6 @@
-Hello! 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 My name is **Rushikesh Yadav**, a graduate student with a for **Data Science** and **Machine Learning**. My journey into these fascinating fields began during my engineering studies, where my natural curiosity led me to delve deeper into the realms of data analysis and predictive modeling.
 
