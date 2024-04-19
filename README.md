@@ -40,12 +40,13 @@
 </p>
 
 <p align="center">
-  <a href="https://rushikeshya.github.io/rushiyadav.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Rushikesh.to&logoColor=white" alt="rushikeshyadav" />
-  </a>
   <a href="https://www.linkedin.com/in/rushikeshyadav149/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rushikeshyadav"/>
   </a>
+  <a href="https://rushikeshya.github.io/rushiyadav.github.io/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Rushikesh.to&logoColor=white" alt="rushikeshyadav" />
+  </a>
+
   <a href="https://github.com/rushikeshya" target="_blank">
     <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="your_username" />
   </a>
