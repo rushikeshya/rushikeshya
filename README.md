@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/rushikeshya"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science;Machine%20Learning;Python;SQL;MS%20SQL%20Server;MySQL;Statistics;Tableau;Flask;Recommendation%20Systems;Deep%20Learning;NLP;&center=True&width=380&height=45&typingInterval=100"></a>
+  <a href="https://github.com/rushikeshya"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Science;Machine%20Learning;Python;SQL;MS%20SQL%20Server;MySQL;Statistics;Tableau;Flask;Recommendation%20Systems;Deep%20Learning;NLP;&center=True&width=380&height=45&typingInterval=200"></a>
 </p>
 
 
