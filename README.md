@@ -46,9 +46,9 @@
  <a href="https://www.linkedin.com/in/rushikeshyadav149/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rushikeshyadav"/>
  </a>
- <!-- <a href="https://rushikeshya.github.io/rushiyadav.github.io/" target="_blank">
+<a href="https://rushikeshya.github.io/rushiyadav.github.io/" target="_blank">
   <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rushikeshyadav" />
- </a> -->
+ </a>
  <a href="https://twitter.com/rushi_yadav1122" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
  </a>
