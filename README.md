@@ -41,12 +41,12 @@
 
 <p align="center">
   <a href="https://rushikeshya.github.io/rushiyadav.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="rushikeshyadav" />
+    <img src="https://img.shields.io/badge/Portfolio-0A0A0A?style=for-the-badge&logo=Rushikesh.to&logoColor=white" alt="rushikeshyadav" />
   </a>
   <a href="https://www.linkedin.com/in/rushikeshyadav149/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rushikeshyadav"/>
   </a>
-  <a href="https://github.com/your_username" target="_blank">
+  <a href="https://github.com/rushikeshya" target="_blank">
     <img src="https://img.shields.io/badge/Github-blue?style=for-the-badge&logo=github&logoColor=white" alt="your_username" />
   </a>
   <a href="https://medium.com/@yadavrushikesh" target="blank">
