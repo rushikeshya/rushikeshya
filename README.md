@@ -93,12 +93,12 @@
 ## Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&labelColor=black&logo=matplotlib&logoColor=3776AB)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&labelColor=black&logo=seaborn&logoColor=3776AB)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
 
 
 
