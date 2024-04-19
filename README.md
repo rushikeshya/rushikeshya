@@ -78,13 +78,14 @@
 
 ## Use To Code
 
-!Python
-!R
-!SQL
-!TensorFlow
-!Keras
-!Pandas
-!NumPy
-!Matplotlib
-!Seaborn
-!Jupyter
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&labelColor=black&logo=r&logoColor=276DC3)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&labelColor=black&logo=tensorflow&logoColor=FF6F00)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&labelColor=black&logo=keras&logoColor=D00000)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&labelColor=black&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&labelColor=black&logo=numpy&logoColor=013243)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&labelColor=black&logo=matplotlib&logoColor=3776AB)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&labelColor=black&logo=seaborn&logoColor=3776AB)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
+
