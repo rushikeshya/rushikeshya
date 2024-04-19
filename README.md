@@ -48,7 +48,7 @@
   </a>
 
   <a href="https://github.com/rushikeshya" target="_blank">
-    <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="your_username" />
+    <img src="https://img.shields.io/badge/Github-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="rushikeshya" />
   </a>
   <a href="https://medium.com/@yadavrushikesh" target="blank">
     <img src="https://img.shields.io/badge/Blogs-0A0A0A?style=for-the-badge&logo=medium&logoColor=white" alt="rushikeshyadav" />
@@ -64,23 +64,23 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-🎓   Recent graduate passionate about Data Science and Machine Learning, proficient in Python libraries.<br/><br/>
+🎓   Recent graduate passionate about Data Science and Machine Learning, proficient in Python libraries.<br/>
 
-🏅   Earned a Full Stack Data Science certification, showcasing end-to-end data science knowledge.<br/><br/>
+🏅   Earned a Full Stack Data Science certification, showcasing end-to-end data science knowledge.<br/>
 
-🚀   Completed an intensive bootcamp, gaining comprehensive understanding of Python, DSA, and Data Science.<br/><br/>
+🚀   Completed an intensive bootcamp, gaining comprehensive understanding of Python, DSA, and Data Science.<br/>
 
-🔬   Enjoys to do programming, exploring data, using predictive modeling, and always open to feedback.<br/><br/>
+🔬   Enjoys to do programming, exploring data, using predictive modeling, and always open to feedback.<br/>
 
-📚   Lifelong learner committed to staying updated with industry best practices.<br/><br/>
+📚   Lifelong learner committed to staying updated with industry best practices.<br/>
 
-🔧   A problem-solver able to debug and fix issues with code and data.<br/><br/>
+🔧   A problem-solver able to debug and fix issues with code and data.<br/>
 
-📈   Skilled in visualizing data and presenting clear, understandable findings.<br/><br/>
+📈   Skilled in visualizing data and presenting clear, understandable findings.<br/>
 
-❤️   Love to writing code and learning new features<br/><br/>
+❤️   Love to writing code and learning new features<br/>
 
-📧   Reach me anytime: rushikeshyadav301220@gmail.com<br/><br/>
+📧   Reach me anytime: rushikeshyadav301220@gmail.com<br/>
 
 
 
