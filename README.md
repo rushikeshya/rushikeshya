@@ -64,8 +64,8 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
-  🎓   Graduate student with a passion for Data Science and Machine Learning. My journey began during my engineering studies and has led me to become proficient in various Python libraries essential for data science. <br/><br/>
-
+  🎓   Recent graduate with a strong interest in Data Science and Machine Learning. My passion for these fields was sparked during my studies, where I developed proficiency in various Python libraries essential for data science. <br/><br/>
+🏅   Earned a Full Stack Data Science certification, showcasing my foundational knowledge in data science, from data acquisition to deploying machine learning models.<br/><br/>
   
  ✌️   Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️   Love to writing code and learning new features<br/><br/>
