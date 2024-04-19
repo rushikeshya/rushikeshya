@@ -14,8 +14,8 @@
 
 
 
-<a href="https://komarev.com/ghpvc/?username=rushikeshyadav">
-  <img align="right" src="https://komarev.com/ghpvc/?username=rushikeshyadav&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=rushikeshya">
+  <img align="right" src="https://komarev.com/ghpvc/?username=rushikeshya&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 
@@ -33,7 +33,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Rushikesh+Yadav">「 Google Me 」</a>
     <br>
-    「 I am a graduate student and a data scientist from <b>India</b> 」
+    「 Passionate graduate student specializing in Data Science and Machine Learning, Certified in Google Advanced Data Analytics and Full Stack Data Science」
     <br>
     <br>
   </samp>
