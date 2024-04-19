@@ -33,7 +33,7 @@
   <samp>
     <a href="https://www.google.com/search?q=Rushikesh+Yadav">「 Google Me 」</a>
     <br>
-    「 Passionate graduate student specializing in Data Science and Machine Learning, Certified in Google Advanced Data Analytics and Full Stack Data Science」
+    「 Passionate graduate student enthusiasm in Data Science and Machine Learning, Certified in Google Advanced Data Analytics and Full Stack Data Science」
     <br>
     <br>
   </samp>
