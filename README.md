@@ -1,18 +1,18 @@
 <h1>Hello Everyone</h1>
 
-<!--
+
 <h2 align="center">
   Welcome to Rushikesh Yadav's World!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
--->
 
-<!--
+
+
 <p align="center">
   <a href="https://github.com/rushikeshyadav"><img src="https://readme-typing-svg.herokuapp.com/?lines=Graduate%20Student;Data%20Scientist;Machine%20Learning%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45"></a>
 </p>
 
- -->
+
 
 <a href="https://komarev.com/ghpvc/?username=rushikeshyadav">
   <img align="right" src="https://komarev.com/ghpvc/?username=rushikeshyadav&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
