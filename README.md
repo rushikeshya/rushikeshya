@@ -100,5 +100,12 @@
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&labelColor=black&logo=jupyter&logoColor=F37626)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&labelColor=black&logo=sql&logoColor=4479A1)
 
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&labelColor=black&logo=machinelearning&logoColor=FF6F00)
+![Statistics](https://img.shields.io/badge/Statistics-007ACC?style=for-the-badge&labelColor=black&logo=statistics&logoColor=007ACC)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&labelColor=black&logo=tableau&logoColor=E97627)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&labelColor=black&logo=flask&logoColor=FFFFFF)
+![Recommendation Systems](https://img.shields.io/badge/Recommendation%20Systems-FFA726?style=for-the-badge&labelColor=black&logo=recommendationsystems&logoColor=FFA726)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&labelColor=black&logo=deeplearning&logoColor=FF6F00)
+![Natural Language Processing](https://img.shields.io/badge/Natural%20Language%20Processing-4CAF50?style=for-the-badge&labelColor=black&logo=naturallanguageprocessing&logoColor=4CAF50)
 
 
