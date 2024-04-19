@@ -64,6 +64,8 @@
  
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+  🎓   Graduate student with a passion for Data Science and Machine Learning. My journey began during my engineering studies and has led me to become proficient in various Python libraries essential for data science. <br/><br/>
+
   
  ✌️   Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️   Love to writing code and learning new features<br/><br/>
