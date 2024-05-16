@@ -58,6 +58,12 @@
 </p>
 <br />
 
+<p align="center">
+  <a href="https://rushikeshyadav.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Github Summary-0A0A0A?style=for-the-badge&logo=github&logoColor=white" alt="rushikeshya" />
+  </a>
+</p>
+
 <!-- About Section -->
  # About me
  
